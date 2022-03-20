@@ -1,3 +1,3 @@
 ## Test website 
-A demo portfolio website hosted using GitHub pages
+A test website hosted using GitHub pages
 
